@@ -1,0 +1,13 @@
+    string lef_file[] = {"/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/scc011u_8lm_1tm_thin_ALPA.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/scc011ums_hd_rvt_ant.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/scc011ums_hd_lvt_ant.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/scc011ums_hd_hvt_ant.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S013PLLFN_8m_V1_2_1.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/SP013D3WP_V1p7_8MT.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HD1P512X73M2B0.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HD1P512X58M2B0.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HD1P128X21M2B0.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HD1P1024X64M4B0.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HD1P512X19M4B0.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HDSP4096X64M8B0.lef",
+                         "/Project/home/huangzengrong/Project/gitTest/master/data/ysyx2/S011HD1P256X8M4B0.lef"};
